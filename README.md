@@ -6,5 +6,5 @@ I've been doing some basic C# software programming and Java backend programming
 - 🎓 Currently studying at 42 school in Lyon ! (best school of the multiverse) --> 42lyon.fr
 - 🌱 I’m currently learning : C, Python, Java, and others ! ..
 but also : Git, Vim, Visual Studio code
-- 📫 How to reach me : my LinkedIn profile : Aurélien Levra
+- 📫 How to reach me : my gmail adress : aurelien.levra
 
