@@ -1,12 +1,22 @@
 - 👋 Hi, I’m @aLeuleu
-I've been programming industrial robots for a time ( Staübli, Fanuc and others )
-It made me want to study IT !
-I've also done some basic C# software programming and Java backend programming
+Former industrial robotician
+Soon-to-be diplomed in IT with a major in cybersecurity.
 - 🎓📜 Bac+2 Mechanical and production engineering
 - 🎓📜 Bac+3 Robotics and industrial networks
-- 🎓 Currently studying at 42 school in Lyon ! 
-(What a amazing school, I'm so thankful !! ) --> 42lyon.fr
-- 🌱 I’m currently learning : C, C++, Python, Java, and others ! ..
-but also : Git, Vim, Visual Studio code, CLion
-- 📫 How to reach me : my gmail adress : aurelien.levra
+- 🎓 Currently studying at 42 school in Lyon
+- 🌱 Currently learning : metamorphic viruses
+
+Metamorphism is a defense mechanism used by different programs to go unnoticed by
+control and protection programs such as antivirus software.
+
+A metamorphic virus contains neither decoder nor constant viral body,
+but it can create new generations of itself for each replication while preventing one generation from
+resembling the previous one
+
+😍 : virology, reverse engineering, x86 assembly, C/C++, Rust, CTFs and online challenges, Python (Django), shell magic, git tricks.. 
+IDE : JetBrains (Pro) Suite VSCode, Vim
+Previous skills : C#/Java7SE, Staubli Robotics programmin (VAL3), automation and industrial vision
+
+- 📫 How to reach me : OSINT Aurelien Levra
+  
 The sun is shining behind every clouds ! 🌞 It's a good life.
