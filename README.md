@@ -13,9 +13,9 @@ A metamorphic virus contains neither decoder nor constant viral body,
 but it can create new generations of itself for each replication while preventing one generation from
 resembling the previous one
 
-😍 : virology, reverse engineering, x86 assembly, C/C++, Rust, CTFs and online challenges, Python (Django), shell magic, git tricks.. 
-IDE : JetBrains (Pro) Suite VSCode, Vim
-Previous skills : C#/Java7SE, Staubli Robotics programmin (VAL3), automation and industrial vision
+😍 : virology, reverse engineering, x86 assembly, C/C++, Rust, CTFs and online challenges, Python (Django), shell magic, git tricks.. <br>
+IDE : JetBrains (Pro) Suite VSCode, Vim <br>
+Previous skills : C#/Java7SE, Staubli Robotics programmin (VAL3), automation and industrial vision <br>
 
 - 📫 How to reach me : OSINT Aurelien Levra
   
