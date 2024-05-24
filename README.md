@@ -29,7 +29,16 @@ Can be found at
 https://github.com/tdameros/42-transcendence
 
 
+I also did a shell in C with my mate @fan2bolide :
+ https://github.com/fan2bolide/minishell
 
+## Features
 
+- **Command Execution**: Execute binary files and built-in commands.
+- **Redirection**: Handle input and output redirection.
+- **Piping**: Support command piping.
+- **Environment Variables**: Manage and utilize environment variables.
+- **Built-in Commands**: Implement built-in commands like `cd`, `echo`, `env`, `exit`, and more.
+- **Signal Handling**: Handle signals gracefully.
 
 The sun is shining behind every clouds ! 🌞 It's a good life.
