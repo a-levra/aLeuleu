@@ -7,9 +7,13 @@ Soon-to-be diplomed in IT with a major in cybersecurity.
 
 
 If you a recruiter, you should check my most professional project : 
-https://github.com/tdameros/42-transcendence/assets/97832618/af364140-2886-4818-b81b-99d09d70ce3e
 
-  https://github.com/tdameros/42-transcendence
+
+https://github.com/aLeuleu/aLeuleu/assets/97832618/fcd90525-d223-4953-b0bf-3d35b74dc4e7
+
+
+
+https://github.com/tdameros/42-transcendence
 
 
 
