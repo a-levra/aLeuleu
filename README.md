@@ -29,8 +29,11 @@ Can be found at
 https://github.com/tdameros/42-transcendence
 
 
-I also did a shell in C with my mate @fan2bolide :
+# And also check out my shell in C we made with my mate @fan2bolide :
  https://github.com/fan2bolide/minishell
+
+## Yes, we re-coded a shell. In C.
+
 
 ## Features
 
@@ -40,5 +43,19 @@ I also did a shell in C with my mate @fan2bolide :
 - **Environment Variables**: Manage and utilize environment variables.
 - **Built-in Commands**: Implement built-in commands like `cd`, `echo`, `env`, `exit`, and more.
 - **Signal Handling**: Handle signals gracefully.
+
+# Next project : basic ELF Virus 
+
+ELF is the binary format for Linux ( it's PE for Windows, Mach-o for mac).
+
+## Features 
+- Infect an ELF file, 
+- Add a payload as a sections, 
+- Change entry point, 
+- Cypher the added payload section, 
+- Cecypher and execute the payload at runtime
+- Once payload executed, launch the original binary gracefully
+
+And then we will move on on metamorphic viruses ... 
 
 The sun is shining behind every clouds ! 🌞 It's a good life.
